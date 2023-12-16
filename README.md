@@ -11,5 +11,7 @@
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
 </div>
+
 ![头像](image/头像.jpg)
+
 ![Visitor Count](https://profile-counter.glitch.me/Ruaniosec/count.svg)
