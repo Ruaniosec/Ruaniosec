@@ -13,6 +13,6 @@
 
 </div>
 
-![头像](image/头像.jpg)
+![头像](image/头像.png)
 
 ![Visitor Count](https://profile-counter.glitch.me/Ruaniosec/count.svg)
